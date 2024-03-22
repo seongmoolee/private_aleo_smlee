@@ -1,0 +1,2 @@
+ALEO_ADDRESS="aleo1drdudky8var4wcre8g0ywgfkzn0c4z2j4s6amz9kdfrnm4v4fyrqm3d6s4"
+leo run withdraw ${ALEO_ADDRESS} 50u64 1234u64 15u64
